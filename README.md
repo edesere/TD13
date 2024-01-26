@@ -1,10 +1,11 @@
-Git interactive rebase
+Changing Multiple Commit Messages
 Bonjour
 Bonjour
-Eloi
+Luka
 Changing Multiple Commit Messages
 Bonjour
 Bonjour
 Bonjour
 Bonjour
+Luka
 Bonjour

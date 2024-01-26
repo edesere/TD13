@@ -1,1 +1,5 @@
-Git interactive rebase
+Changing Multiple Commit Messages
+Bonjour
+Bonjour
+Bonjour
+Luka
