@@ -1,1 +1,7 @@
+Changing Multiple Commit Messages
+Bonjour
+Bonjour
+Bonjour
+Eloi
 Git interactive rebase
+
