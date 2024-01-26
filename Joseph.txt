@@ -2,5 +2,6 @@ Changing Multiple Commit Messages
 Bonjour
 Bonjour
 Bonjour
-Joseph
+Eloi
 Git interactive rebase
+
